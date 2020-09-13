@@ -1,0 +1,10 @@
+mvn path/to/pom.xml clean
+mvn path/to/pom.xml validate
+mvn path/to/pom.xml compile 
+mvn path/to/pom.xml test 
+mvn path/to/pom.xml package 
+mvn path/to/pom.xml verify
+mvn path/to/pom.xml install 
+
+Команда для запуска: 
+java -jar path\to\project.jar
